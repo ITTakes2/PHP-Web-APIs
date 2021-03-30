@@ -5,4 +5,4 @@ Constantly being updated! If you have a suggestion for a PHP API that may be use
 Created by the team at ITTakes2.
 
 # List of contents
-- [randomQuote.php](https://github.com/ITTakes2/PHP-Web-APIs/randomQuote.php) - Returns a random quote, fully customizable and can return JSON or Plaintext (default is plaintext, just append "?json" to the url for JSON)
+- [randomQuote.php](https://github.com/ITTakes2/PHP-Web-APIs/blob/main/randomQuote.php) - Returns a random quote, fully customizable and can return JSON or Plaintext (default is plaintext, just append "?json" to the url for JSON)
