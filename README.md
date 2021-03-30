@@ -1,6 +1,7 @@
 # PHP-Web-APIs
 A few PHP APIs that may be useful for anything you might need! With clean, easy to read and manage code.
 \
+Constantly being updated! If you have a suggestion for a PHP API that may be useful, [click here!](issue link) to create a request.
 Created by the team at ITTakes2.
 
 # List of contents
